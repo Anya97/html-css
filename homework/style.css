@@ -1,0 +1,135 @@
+body {
+    font-family: sans-serif;
+}
+
+.paragraph {
+    font-size: 16px; 
+    line-height: 26px;
+    color: #1F3F68;
+}
+
+.header1 {
+    font-size: 64px; 
+    color: #1F3F68;
+}
+
+.header2 {
+    font-weight: 500; 
+    font-size: 44px;
+    text-align: center;
+} 
+
+.header3 {
+    font-size: 36px; 
+    text-align: center;    
+}
+
+.header4 {
+    font-size: 20px;
+    line-height: 30px;
+    color: #1F3F68;
+}
+
+.input {
+    border: 1px solid #356EAD; 
+    box-sizing: border-box; 
+    border-radius: 10px; 
+    opacity: 0.4;
+}
+
+.button {
+    background: #5A98D0;    
+    box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2); 
+    border-radius: 10px;
+    font-weight: 500; 
+    font-size: 16px;
+    line-height: 26px; 
+    text-align: center; 
+    color: #FFFFFF; 
+    text-transform: uppercase;
+}
+
+.logo {
+    width: 150px;
+    height: 150px;
+    background-size: cover;
+    background-position: center;
+}
+
+.center_page {
+    border: 3px solid purple;
+}
+.menu {
+    margin-top: 20px;
+    border: 3px solid green;
+}
+
+.center_paragraph {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 50%;
+    border: 3px solid aqua;
+}
+
+.bottom_page {
+    margin-top: 50px;
+    border: 3px solid purple;
+    margin-bottom: 10px;
+    overflow: hidden;
+    padding-left: 0px;
+}
+
+.bottom_paragraph {
+    margin-top: 50px;
+    padding-left: 0px;
+    border: 3px solid green;
+    margin-bottom: 20px;
+    overflow: hidden;
+    background-color: lightgray;
+}
+
+.paragraph_column {
+   width: 30%;
+   border: 3px solid rgb(218, 13, 132); 
+   margin-bottom: 20px;
+   float: left;
+   background-color: white;
+}
+
+.paragraph_column_blank {
+   width: 30%;
+   margin-bottom: 20px;
+   float: left;
+   margin-left: 20px;
+   background-color: white;
+}
+
+.last_paragraph {
+    margin-top: 10px;
+    border: 3px solid red;  
+}
+
+.very_last_part {
+    margin-top: 50px;
+    border: 3px solid lightsalmon;
+}
+.very_last_paragraph {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 50%;
+    border: 3px solid palevioletred;
+}
+
+.contacts {
+    border: 3px solid lightgreen;  
+}
+
+.rights {
+    border: 3px solid lightslategray; 
+    margin-bottom: 50px; 
+}
+
+.line {
+    border: 3px solid gray; 
+}
+
